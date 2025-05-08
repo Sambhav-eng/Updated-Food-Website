@@ -1,0 +1,41 @@
+h1
+{
+    background-color: rgba(17, 0, 255, 0.222);
+    margin: 0;
+    color: rgb(28, 48, 107);
+    padding: 0;
+    text-align: center;
+    box-sizing: border-box;
+
+}
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.pic
+{
+    border: 55px solid black;
+    width :100vw;
+    height: 100vh;
+    margin:10px;
+    margin-top: 0%;
+    background-color: wheat;
+}
+div >p{
+    background-color: rgb(216, 216, 231);
+    margin:10px;
+    width: vh;
+    border: 3px solid;
+    font-family: cursive;
+    font-size: larger;
+    font-style: oblique;
+}
+iframe
+{
+    width:100vw;
+    height: 50vh;
+    border: 5px solid rgb(0, 104, 4);
+}
+
